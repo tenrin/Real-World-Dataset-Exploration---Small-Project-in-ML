@@ -1,4 +1,4 @@
-Real-World-Dataset-Exploration---Small-Project-in-ML
+# Real-World-Dataset-Exploration---Small-Project-in-ML
 
 This ML Project on Real-World Dataset Exploration was aimed to apply different data manipulation techniques and perform Exploratory Data Analysis to uncover pattern, trends and anomalies in our data. It also aimed to employ statistical tests and data visualization techniques to make data-driven inferences and show these inferences in a clear manner.
 
